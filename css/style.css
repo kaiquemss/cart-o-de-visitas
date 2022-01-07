@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.container {
+    width: 400px;
+    height: 20s0px;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 300px;
+    background-image: url(../images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+li {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#li1 {
+    list-style-image: url(../images/gitgub.jpeg);
+}
+
+#li2 {
+    list-style-image: url(../images/linkedin.jpeg);
+}
+
+#li3 {
+    list-style-image: url(../images/gmail.jpeg);
+}
