@@ -2,7 +2,7 @@
 
 <p >Esse projeto é um cartão de visitas feito com HTML e CSS</p>
 
-<h2><img src="./animaçao.gif"></h2>
+![Animaçao](https://user-images.githubusercontent.com/79489384/148602718-4ab4d8ec-3490-480f-8748-091b48687f80.gif)
 
 <hr>
 
@@ -28,5 +28,6 @@
 <p>HTML e CSS</p>
 
 <hr>
+
 
 <p>Made with 💙 by Kaiquemss 👋 [see my linkedin] <a href="https://www.linkedin.com/in/kaique-marques-4a6148b8/">Kaique Marques</a></p>
