@@ -8,7 +8,7 @@ h1 {
 
 .container {
     width: 400px;
-    height: 20s0px;
+    height: 200px;
     box-sizing: border-box;
     padding: 1px 20px;
     margin: auto;
@@ -36,4 +36,10 @@ a {
 
 #li3 {
     list-style-image: url(../images/gmail.jpeg);
+}
+
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 22px; 
+    }
 }
